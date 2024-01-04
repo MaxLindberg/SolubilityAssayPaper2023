@@ -1,0 +1,14 @@
+name: solubility-paper-Lindberg_etal-2023
+dependencies:
+  - numpy
+  - plotly
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - pip
+  - pip:
+    - polars
+    - pyarrow
+    - openpyxl
+    - plotly

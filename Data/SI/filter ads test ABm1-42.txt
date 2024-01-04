@@ -1,0 +1,58 @@
+User: USER;Path: C:\Program Files (x86)\BMG\CLARIOstar\User\Data\;Test run no.: 11572
+Test name: Max-OPA;Date: 2022-05-19;Time: 19:06:05
+
+ID1: 2022-05-19,19:06:05;ID2: Max-OPA;ID3: ABm1-42 filter test left is filtered;
+Fluorescence (FI)
+
+Group A: filtered
+Group B: unfiltered
+
+Well;Content;Group; Raw Data (360-30/456-20); Blank corrected based on Raw Data (360-30/456-20); Average over replicates based on Blank corrected (360-30/456-20); Linear regression fit based on Blank corrected in uM (360-30/456-20);
+H07;Blank B;A;2054;;;;
+H08;Blank B;A;2103;;;;
+H09;Blank B;A;2005;;;;
+A07;Standard S1;A;18744;16690;16511;10,494 uM;
+A08;Standard S1;A;18956;16902;16511;10,625 uM;
+A09;Standard S1;A;17996;15942;16511;10,032 uM;
+B07;Standard S2;A;10038;7984;7912;5,088 uM;
+B08;Standard S2;A;10330;8276;7912;5,27 uM;
+B09;Standard S2;A;9530;7476;7912;4,769 uM;
+C07;Standard S3;A;5632;3578;3380;2,313 uM;
+C08;Standard S3;A;5232;3178;3380;2,059 uM;
+C09;Standard S3;A;5438;3384;3380;2,19 uM;
+D07;Standard S4;A;4084;2030;2194;1,326 uM;
+D08;Standard S4;A;5079;3025;2194;1,962 uM;
+D09;Standard S4;A;3580;1526;2194;1,002 uM;
+E07;Standard S5;A;2945;891;842;0,591 uM;
+E08;Standard S5;A;2919;865;842;0,574 uM;
+E09;Standard S5;A;2824;770;842;0,512 uM;
+F07;Standard S6;A;2494;440;508;0,295 uM;
+F08;Standard S6;A;2772;718;508;0,478 uM;
+F09;Standard S6;A;2419;365;508;0,246 uM;
+G07;Standard S7;A;2390;336;225;0,227 uM;
+G08;Standard S7;A;2250;196;225;0,134 uM;
+G09;Standard S7;A;2198;144;225;0,099 uM;
+H10;Blank B;B;1301;;;;
+H11;Blank B;B;1333;;;;
+H12;Blank B;B;1372;;;;
+A10;Standard S1;B;19070;17735;17820;10,092 uM;
+A11;Standard S1;B;19615;18280;17820;10,38 uM;
+A12;Standard S1;B;18780;17445;17820;9,938 uM;
+B10;Standard S2;B;9935;8600;8654;5,142 uM;
+B11;Standard S2;B;10086;8751;8654;5,226 uM;
+B12;Standard S2;B;9948;8613;8654;5,15 uM;
+C10;Standard S3;B;5171;3836;3858;2,424 uM;
+C11;Standard S3;B;4941;3606;3858;2,289 uM;
+C12;Standard S3;B;5467;4132;3858;2,598 uM;
+D10;Standard S4;B;3114;1779;1781;1,185 uM;
+D11;Standard S4;B;3111;1776;1781;1,183 uM;
+D12;Standard S4;B;3123;1788;1781;1,191 uM;
+E10;Standard S5;B;2189;854;865;0,598 uM;
+E11;Standard S5;B;2177;842;865;0,59 uM;
+E12;Standard S5;B;2234;899;865;0,627 uM;
+F10;Standard S6;B;1795;460;459;0,336 uM;
+F11;Standard S6;B;1785;450;459;0,329 uM;
+F12;Standard S6;B;1804;469;459;0,342 uM;
+G10;Standard S7;B;1497;162;200;0,127 uM;
+G11;Standard S7;B;1547;212;200;0,163 uM;
+G12;Standard S7;B;1562;227;200;0,174 uM;

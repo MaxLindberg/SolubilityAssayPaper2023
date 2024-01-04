@@ -1,0 +1,66 @@
+User: USER;Path: C:\Program Files (x86)\BMG\CLARIOstar\User\Data\;Test run no.: 12380
+Test name: Max-OPA2;Date: 2023-11-22;Time: 16:58:50
+
+ID1: 231122 AB(M1-40) extra reps 23 h;
+Fluorescence (FI)
+
+2nd Polynomial fit
+Y = Offset + c1x + c2x²  (weighted fit: 1/X)
+;Parameter;Value;
+340-30/440-40;Offset;-15.0;
+;c1;2253.4592616;
+;c2;330.1652081;
+;r;0.9985957;
+;r²;0.9971933;
+
+
+Linear regression fit
+Y = Slope * x + Offset  (weighted fit: 1/X)
+;Parameter;Value;
+340-30/440-40;Slope;3770.1413924;
+;Offset;-330.8;
+;r;0.9838524;
+;r²;0.9679655;
+
+
+Well;Content; Linear regression fit (weighted: 1/X) based on Blank corrected in (340-30/440-40); 2nd Polynomial fit (weighted: 1/X) based on Blank corrected in (340-30/440-40);
+H05;Blank B;;;
+H06;Blank B;;;
+H07;Blank B;;;
+H03;Negative control N;0.193;0.178;
+H04;Negative control N;0.179;0.155;
+A03;Sample X1;;;
+A04;Sample X1;0.517;0.661;
+B03;Sample X1;0.511;0.652;
+B04;Sample X1;0.347;0.415;
+C03;Sample X1;0.401;0.495;
+C04;Sample X1;0.33;0.39;
+D03;Sample X1;0.389;0.477;
+D04;Sample X1;0.338;0.401;
+E03;Sample X1;0.471;0.596;
+E04;Sample X1;0.342;0.407;
+F03;Sample X1;0.414;0.514;
+F04;Sample X1;0.354;0.426;
+G03;Sample X1;0.352;0.422;
+G04;Sample X1;;;
+A05;Standard S1;6.945;6.074;
+A06;Standard S1;6.807;5.991;
+A07;Standard S1;6.51;5.808;
+B05;Standard S2;2.892;3.199;
+B06;Standard S2;2.83;3.145;
+B07;Standard S2;2.773;3.095;
+C05;Standard S3;1.155;1.474;
+C06;Standard S3;1.163;1.483;
+C07;Standard S3;1.16;1.48;
+D05;Standard S4;0.497;0.633;
+D06;Standard S4;0.51;0.651;
+D07;Standard S4;0.515;0.658;
+E05;Standard S5;0.297;0.34;
+E06;Standard S5;0.302;0.347;
+E07;Standard S5;0.322;0.378;
+F05;Standard S6;0.197;0.185;
+F06;Standard S6;0.188;0.17;
+F07;Standard S6;0.199;0.187;
+G05;Standard S7;0.169;0.139;
+G06;Standard S7;0.145;0.102;
+G07;Standard S7;0.143;0.097;

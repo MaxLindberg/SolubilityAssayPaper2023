@@ -1,0 +1,163 @@
+Testname: Max-OPA2
+Date: 2023-11-22  Time: 16:58:50 (UTC+1)
+ID1: 231122 AB(M1-40) extra reps 23 h  ID2:   ID3: 
+No. of Channels / Multichromatics: 1
+No. of Cycles: 1
+Configuration: Fluorescence
+Used filter settings and gain values:
+  1: 340-30/440-40                                    831
+  2: -                                                
+  3: -                                                
+  4: -                                                
+  5: -                                                
+
+
+Basic Parameters
+================
+Mode: Endpoint
+Pause before cycle: 0
+Pause duration [s]: 0
+Microplate: COSTAR 96 HALF AREA
+Focal height [mm]: 7
+Settling time [s]: 0.5
+Well scanning: Orbital averaging
+Multichromatic mode: -
+Scan diameter [mm]: 2
+Optic: Top
+Aperture spoon: none
+Injection needle holder: -
+Comment: 
+
+
+Kinetic Windows
+===============
+Number of kinetic windows: 1
+Kinetic windows mode: none
+
+Kinetic window:                 1      2      3      4
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Number of cycles:              1      -      -      -      
+ Measurement start time [s]:    0      -      -      -      
+ Number of flashes:             20     -      -      -      
+ Cycle time [s]:                -1     -      -      -      
+
+
+Layout
+======
+Plate format: 96
+Reading direction: 11
+(vertical unidirectional reading, start top left)
+Interlaced reading mode: none
+
+      1     2     3     4     5     6     7     8     9     10    11    12   
+   |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ A |  -     -     X1    X1    S1    S1    S1    -     -     -     -     -    |
+ B |  -     -     X1    X1    S2    S2    S2    -     -     -     -     -    |
+ C |  -     -     X1    X1    S3    S3    S3    -     -     -     -     -    |
+ D |  -     -     X1    X1    S4    S4    S4    -     -     -     -     -    |
+ E |  -     -     X1    X1    S5    S5    S5    -     -     -     -     -    |
+ F |  -     -     X1    X1    S6    S6    S6    -     -     -     -     -    |
+ G |  -     -     X1    X1    S7    S7    S7    -     -     -     -     -    |
+ H |  -     -     N     N     B     B     B     -     -     -     -     -    |
+   |_________________________________________________________________________|
+
+
+Concentrations/Injections/Shaking
+=================================
+
+Well     Concentration  Dilution  Injection Volume [µl]
+Content                 Factor    1       2       3       4
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ B       -              1         0       0       0       0
+ N       -              1         0       0       0       0
+ S1      6              1         0       0       0       0
+ S2      3              1         0       0       0       0
+ S3      1.5            1         0       0       0       0
+ S4      0.75           1         0       0       0       0
+ S5      0.375          1         0       0       0       0
+ S6      0.1875         1         0       0       0       0
+ S7      0.09375        1         0       0       0       0
+ X1      -              1         0       0       0       0
+Used pump:                        -       -       -       -       
+Pump speed [µl/s]:                -       -       -       -       
+Smart dispensing used:            -       -       -       -       
+Pump syringe volume [ml]:         -       -       -       -       
+Injection cycle:                  -       -       -       -       
+Injection start time [s]:         -       -       -       -       
+Shaking time (after inj.) [s]:    -       -       -       -       
+
+Shaking mode: Linear
+Shaking frequency [rpm]: 100
+Additional shaking: None
+Time for additional shaking [s]: 0
+Idle movement mode: None
+Idle movement frequency: -
+Idle movement on time [s]: -
+Idle movement off time [s]: -
+Equidistant kinetic cycles: on
+
+Concentration unit: uM
+
+
+Used Versions/Reader, User Name
+===============================
+CLARIOstar software version (control part): 5.40 R2
+Firmware version: 1.01
+Reader type: CLARIOstar
+Reader serial number: 430-0233
+Extended IR PMT: no
+Windows user: NUC8
+BMG user: USER
+Target temperature: off
+Target O2 concentration: -
+Target CO2 concentration: -
+Required value used for gain adjustment [%]: 80 (E1)
+
+
+Measurement Data
+================
+
+Chromatic: 1
+Cycle: 1
+Time [s]: 0
+A03,    4227.000
+A04,    3132.000
+A05,   27364.000
+A06,   26846.000
+A07,   25725.000
+B03,    3108.000
+B04,    2489.000
+B05,   12085.000
+B06,   11851.000
+B07,   11635.000
+C03,    2694.000
+C04,    2426.000
+C05,    5536.000
+C06,    5566.000
+C07,    5555.000
+D03,    2647.000
+D04,    2454.000
+D05,    3055.000
+D06,    3103.000
+D07,    3123.000
+E03,    2958.000
+E04,    2469.000
+E05,    2302.000
+E06,    2320.000
+E07,    2397.000
+F03,    2742.000
+F04,    2518.000
+F05,    1926.000
+F06,    1890.000
+F07,    1931.000
+G03,    2507.000
+G04,    8534.000
+G05,    1817.000
+G06,    1730.000
+G07,    1719.000
+H03,    1908.000
+H04,    1855.000
+H05,    1517.000
+H06,    1512.000
+H07,    1508.000
+
